@@ -144,7 +144,6 @@ string sha256(const string& input) {
     return ss.str();
 }
 
-#include <chrono>
 
 int main() {
     string input;
